@@ -278,7 +278,7 @@ Bagian section Footer ini berfungsi sebagai penutup halaman website yang menampi
 
 
 
-⚙️ Teknologi yang Digunakan
+# ⚙️ Teknologi yang Digunakan
 
 HTML5
 
